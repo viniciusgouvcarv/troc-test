@@ -1,0 +1,1 @@
+`npm i` `npm i -g nodemon` `npm start`
